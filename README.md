@@ -19,4 +19,4 @@ $ go build .
 Open http://localhost:8080/ in your browser
 Type the text into the input field and press "PARSE" button to show the list of most used words
 
-![This is an image](https://github.com/CristianDiaz19930915/text-parse/blob/main/screenshot.PNG)
+![This is an image](https://github.com/CristianDiazTorres/text-parse/blob/main/screenshot.PNG)
